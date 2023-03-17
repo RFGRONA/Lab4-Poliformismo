@@ -1,4 +1,4 @@
-# Poliformismo.
+# Polimorfismo.
 #### Integrantes:
 - Fredy Alejandro Zarate Abril
 - Gabriel Esteban Martinez Roldan
