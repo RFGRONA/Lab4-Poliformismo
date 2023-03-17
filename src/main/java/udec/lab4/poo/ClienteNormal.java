@@ -12,7 +12,7 @@ public class ClienteNormal {
         
         int opc = 1, num1 = 0, num2 = 0;
         
-        CalculadoraNormal cal = new CalculadoraNormal();
+        InterfaceCalculadora cal = new CalculadoraNormal();
         Scanner s = new Scanner(System.in);
         
         while (opc != 0) {

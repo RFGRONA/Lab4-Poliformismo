@@ -13,7 +13,7 @@ public class ClienteEspecial {
         
         int opc = 1, num1 = 0, num2 = 0;
         
-        CalculadoraEspecial cal = new CalculadoraEspecial();
+        InterfaceCalculadora cal = new CalculadoraEspecial();
         Scanner s = new Scanner(System.in);
         
         System.out.println("----- Los resultados serán divididos entre dos sin parte decimal -----");

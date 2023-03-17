@@ -1,6 +1,6 @@
 package udec.lab4.poo;
 
-public class CalculadoraEspecial implements InterfazCalculadora {
+public class CalculadoraEspecial implements InterfaceCalculadora {
 
     @Override
     public int sumarEnteros(int numero1, int numero2) {
